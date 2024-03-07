@@ -1,5 +1,5 @@
-readme file
+## github rest api's
 
-updated readme
+# find the list of PR's / no of PR's
 
-added new line
+# find the PR is merged or not
